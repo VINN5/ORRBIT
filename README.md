@@ -22,19 +22,16 @@ A powerful, multi-domain AI assistant that combines **conversational memory**, *
 ### Frontend
 - React + React Router
 - Vite
-- Tailwind CSS (assumed)
 
 ### Backend
 - Python
-- LangChain / LlamaIndex style architecture (inferred)
 - RAG with arXiv integration
-- Persistent memory system
+- Persistent memory & graph-based routing
 
 ### Key Modules
-- **Memory System** – Conversation + Long-term + User Profile
-- **Prompt Engineering** – Domain-specific system prompts
-- **Graph-based Reasoning** – Advanced query routing
-- **Tool Integration** – Web search, academic fetcher, etc.
+- Memory System (Conversation + Long-term + User Profile)
+- Domain-specific Prompts
+- Tool Integration (Search, Academic Fetcher, etc.)
 
 ---
 
@@ -47,7 +44,7 @@ A powerful, multi-domain AI assistant that combines **conversational memory**, *
 
 ### Installation
 
-1. **Clone the repository**
+1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/Orrbit.git
+   git clone https://github.com/VINN5/Orrbit.git
    cd Orrbit
